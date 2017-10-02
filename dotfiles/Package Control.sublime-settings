@@ -1,24 +1,24 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"1337 Color Scheme",
-		"AdvancedNewFile",
-		"Anaconda",
-		"Djaneiro",
-		"Emmet",
-		"EmmetOneLine",
-		"FTPSync",
-		"GitGutter",
-		"Markdown Preview",
-		"Package Control",
-		"Python PEP8 Autoformat",
-		"requirementstxt",
-		"SideBarEnhancements",
-		"SublimeLinter",
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "1337 Color Scheme",
+    "AdvancedNewFile",
+    "Anaconda",
+    "Djaneiro",
+    "Emmet",
+    "EmmetOneLine",
+    "FTPSync",
+    "GitGutter",
+    "Markdown Preview",
+    "Package Control",
+    "Python PEP8 Autoformat",
+    "requirementstxt",
+    "SideBarEnhancements",
+    "SublimeLinter",
     "SublimeLinter-csslint",
     "SublimeLinter-html-tidy",
     "SublimeLinter-jshint",
@@ -26,8 +26,8 @@
     "SublimeLinter-pep8",
     "SublimeLinter-pyflakes",
     "SublimeLinter-pyyaml",
-		"Theme - Flatland",
-		"Theme - Soda",
-		"Tomorrow Color Schemes"
-	]
+    "Theme - Flatland",
+    "Theme - Soda",
+    "Tomorrow Color Schemes"
+  ]
 }
